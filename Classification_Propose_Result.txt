@@ -1,0 +1,55 @@
+ Results:K-NN ======
+Average AUC: 0.8821548821548821
+
+Average F-Measure: 0.9473684210526315
+
+Average Recall: 0.9473684210526315
+
+Average Precision: 0.9473684210526315
+
+===========================
+
+ Results:C4.5 ======
+Average AUC: 0.962962962962963
+
+Average F-Measure: 0.948549257759784
+
+Average Recall: 0.9473684210526315
+
+Average Precision: 0.9554655870445344
+
+===========================
+
+ Results:Naive Bays ======
+Average AUC: 0.977405635300372
+
+Average F-Measure: 0.9740080307413325
+
+Average Recall: 0.9736842105263158
+
+Average Precision: 0.975877192982456
+
+=================================
+
+ Results:Random Forest ======
+Average AUC: 1.0
+
+Average F-Measure: 0.9732968785600363
+
+Average Recall: 0.9736842105263158
+
+Average Precision: 0.974624060150376
+
+===================================
+
+ Results:Support Vector.. ======
+Average AUC: 0.9360269360269361
+
+Average F-Measure: 0.9473684210526315
+
+Average Recall: 0.9473684210526315
+
+Average Precision: 0.9473684210526315
+
+======================================
+
